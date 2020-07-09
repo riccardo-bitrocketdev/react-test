@@ -1,20 +1,17 @@
 # Descrizione
 
-Sviluppare un'app in ReactJS che permetta all'avvio, di estrarre ciclicamente i dati da un qualsiasi sito (d'informazione o di annunci) e visualizzarne le informazioni raccolte in una lista che sarà possibile filtrare attraverso una searchbar.
+Sviluppare un'app in Javascript che permetta all'avvio, di estrarre ciclicamente i dati da un qualsiasi sito (d'informazione o di annunci) e visualizzarne le informazioni raccolte in una lista che sarà possibile filtrare attraverso una searchbar.
 
 - Alla consegna dovranno essere indicate le effetive ore impiegate nello sviluppo.
 
-# Must have
-
-- Utilizzare Typescript
-- Utilizzare _Redux_ e _Redux-sagas_ per la gestione dello state
-- Utilizzare _Styled-components_ per la gestione del CSS
-- Integrare _Storybook_ per lo sviluppo in isolamento dei componenti UI
-
-
 # Nice to have
 
-- Integrare Eslint e Prettier per la formattazione del codice
+- Utilizzo della libreria ReactJS
+- Utilizzo di Typescript
+- Utilizzo di _Redux_ e _Redux-sagas_ per la gestione dello state
+- Utilizzo di _Styled-components_ per la gestione del CSS
+- Integrazione _Storybook_ per lo sviluppo in isolamento dei componenti UI
+- Integrazione Eslint e Prettier per la formattazione del codice
 - Controlli sul codice e/o formattazione in fase di commit
 
 # Stile e CSS

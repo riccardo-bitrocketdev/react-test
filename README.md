@@ -16,7 +16,7 @@ Sviluppare un'app in Javascript che permetta all'avvio, di estrarre ciclicamente
 
 # Stile e CSS
 
-La scelta dello stile non è rilevante tuttavia, sarà importante utilizzare _styled-components_ per lo sviluppo dei componenti UI e _storybook_ per lo sviluppo in isolamento dei componenti.
+La scelta dello stile non è rilevante tuttavia, rappresenta un - nice to have - l'utilizzo di _styled-components_ per lo sviluppo dei componenti UI e _storybook_ per lo sviluppo in isolamento dei componenti.
 
 # Git flow
 
